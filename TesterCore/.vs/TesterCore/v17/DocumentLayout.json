@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{436109D1-F098-4E50-9A34-26DCF74B6A1C}|..\\TesterxUnit\\TesterxUnit.csproj|c:\\users\\aluno noite\\source\\repos\\testerxunit\\contatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCC71A1-CCA6-4455-9564-EBE737DC071B}|TesterCore.csproj|c:\\users\\aluno noite\\source\\repos\\testercore\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCC71A1-CCA6-4455-9564-EBE737DC071B}|TesterCore.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCC71A1-CCA6-4455-9564-EBE737DC071B}|TesterCore.csproj|c:\\users\\aluno noite\\source\\repos\\testercore\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCC71A1-CCA6-4455-9564-EBE737DC071B}|TesterCore.csproj|solutionrelative:operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF632DCE-FC37-4272-8141-B13FF2CAAFCC}|..\\TesterMSTest\\TesterMSTest.csproj|c:\\users\\aluno noite\\source\\repos\\testermstest\\operacoestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{436109D1-F098-4E50-9A34-26DCF74B6A1C}|..\\TesterxUnit\\TesterxUnit.csproj|c:\\users\\aluno noite\\source\\repos\\testerxunit\\operacoestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\Operacoes.cs",
+              "RelativeDocumentMoniker": "Operacoes.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\Operacoes.cs",
+              "RelativeToolTip": "Operacoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:19:47.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCore\\Conta.cs",
+              "RelativeToolTip": "Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:46:09.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperacoesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterMSTest\\OperacoesTests.cs",
+              "RelativeDocumentMoniker": "..\\TesterMSTest\\OperacoesTests.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterMSTest\\OperacoesTests.cs",
+              "RelativeToolTip": "..\\TesterMSTest\\OperacoesTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:37:40.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterxUnit\\ContaTests.cs",
+              "RelativeDocumentMoniker": "..\\TesterxUnit\\ContaTests.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterxUnit\\ContaTests.cs",
+              "RelativeToolTip": "..\\TesterxUnit\\ContaTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:37:37.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperacoesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterxUnit\\OperacoesTests.cs",
+              "RelativeDocumentMoniker": "..\\TesterxUnit\\OperacoesTests.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterxUnit\\OperacoesTests.cs",
+              "RelativeToolTip": "..\\TesterxUnit\\OperacoesTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:37:32.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
